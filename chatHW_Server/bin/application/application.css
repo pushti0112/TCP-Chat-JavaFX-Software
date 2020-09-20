@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.apdesign{
+	-fx-background-color:dodgerblue  ;
+}
+.apfirst{
+	-fx-background-color:white  ;
+}
+.pane{
+	-fx-background-color:#E8F2FE  ;
+}
+.btn{
+	-fx-background-radius: 30;
+	-fx-background-color: dodgerblue ;
+	
+
+}
+.labname{
+	-fx-background-color:#E1E6F6 ;
+}
+.send{
+	-fx-background-radius:20;
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%,  #7d22ff, #9144ff);
+}
+.send:hover{
+	-fx-background-color: radial-gradient(center 50% 50%, radius 100%,  #8733ff, #9b55ff);
+}
+.send:pressed{
+	 -fx-padding: 6 11 9 11;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;	
+ 
+}

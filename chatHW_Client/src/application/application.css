@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.apdesign{
+	-fx-background-color:dodgerblue  ;
+}
+.apfirst{
+	-fx-background-color:white  ;
+}
+.pane{
+	-fx-background-color:#E8F2FE  ;
+}
+.btn{
+	-fx-background-radius: 30;
+	-fx-background-color: dodgerblue ;
+	
+
+}
+.labname{
+	-fx-background-color:#E1E6F6 ;
+}
